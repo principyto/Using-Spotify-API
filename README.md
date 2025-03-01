@@ -4,9 +4,9 @@ This is the first instance in which i use a public API such as Spotify, saddly t
 first of all youll need to set up a node enviroment so download node
 then in your console cd to the project folder and type "npm i"
 once installed youll need some npm packages
-"npm axios"
-"npm ejs"
-"npm express"
+"npm i axios"
+"npm i ejs"
+"npm i express"
 optional ---------------
 "npm nodemon"
 
